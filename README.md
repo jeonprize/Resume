@@ -9,7 +9,7 @@
 - Blog : jeonsm9575.tistory.com
 
 ## Education
--  Mar.2014 ~ Present / han-seo University, Software Engineering
+-  Mar.2014 ~ Present / han-seo University, Aero Airspace Software Engineering
 
 ## Certificate
 - TOEIC 750(July.2019)
