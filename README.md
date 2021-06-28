@@ -9,8 +9,11 @@
 - Blog : jeonsm9575.tistory.com
 
 ## Education
--  Mar.2014 ~ Present / han-seo University, Aero Airspace Software Engineering
+-  Mar.2014 ~ Aug.2021 / han-seo University, Aero Airspace Software Engineering
 
 ## Certificate
 - TOEIC 750(July.2019)
 - Advanced Data Analytics Semi-Professional (August.2019)
+
+## Career
+- 2021 공공빅데이터 청년 인턴 ( 2021.05 ~ 2022.02.28 )
